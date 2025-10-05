@@ -2,7 +2,7 @@
 print("\nAddition operation:")
 print("Result of adding 2 and 5:", 2 + 5)
 
-#add variable
+#add variable (2 variables)
 
 x = 2
 y = 5
@@ -10,7 +10,7 @@ y = 5
 print(2+5)
 
 
-#2: Substraction
+#2: Substraction of two numbers
 print("\nSubtraction operation:")
 print("Result of subtracting 2 from 8:", 8-2)
 
