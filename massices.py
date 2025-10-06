@@ -11,3 +11,13 @@ print("list:", fruits)
 print("Coordinates:", coordinates)
 print("Unique numbers:", unique_nums)
 print("Dictionary person:", person)
+
+#print types
+
+print(type(fruits))
+print(type(coordinates))
+
+print(type(unique_nums))
+
+print(type(person))
+

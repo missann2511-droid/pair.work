@@ -25,5 +25,8 @@ elif choice == "4":
     height = float(input("Enter the height of the triangle: "))
     area = (base * height) / 2
     print("Area of the triangle:", area)
+
 else:
-    print("Incorrect input!")
+
+   print("Incorect: Valid shapes choices are 1,2,3,4")
+
